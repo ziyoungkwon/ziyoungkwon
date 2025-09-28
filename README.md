@@ -19,35 +19,11 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gy011003)
 
 ## 💻 Project
-
-
-
-# Hi there 👋
-## My Name is
-### guess
-#### 메롱
----
-**두껍게** <br>
-*기울임* <br>
-~~취소선~~ <br>
-
-> 메롱
-
-* 뭘봐
-* 뭘보냐고
-- ㅋㅋ
-
-[유튜브](www.youtube.com)
-|header|description|
-|--|--|
-|1번|2번|
-
-```
-System.out.println("메롱");
-```
-:smirk:
-# :joy:
-## :joy_cat:
+|기간|프로젝트명|설명|
+|-----|-----|----|
+|2024.03~2024.06|펫피니티(Petfinity)|반려견의 질병을 AI로 진단하고 병원 예약까지 가능한 반려동물 헬스케어 앱|
+|2024.06~2024.08|안티하이머(Antiheimer)|웨어러블 기기 데이터와 인지능력 검사를 결합해 치매 위험도를 예측하는 AI 기반 모바일 앱|
+|2024.09~2024.11|무플(Moople)|실시간 장소 혼잡도를 분석·추천하고 커뮤니티 기능을 제공하는 지도 기반 서비스|
 
 
 <!--
