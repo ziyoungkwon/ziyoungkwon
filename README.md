@@ -1,4 +1,5 @@
-## 🚀 보유 기술 스택
+## 👩‍💻 Jiyoung Kwon
+## 💻 Tech
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![자바](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -10,9 +11,15 @@
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-## 📊 GitHub 활동
+## 📊 GitHub Activities
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyoungkwon&show_icons=true&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyoungkwon)](https://github.com/ziyoungkwon/github-readme-stats)
+
+## 📖 Baekjun
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gy011003)
+
+## 💻 Project
+
 
 
 # Hi there 👋
