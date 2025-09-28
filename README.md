@@ -1,4 +1,5 @@
 ## 👩‍💻 Jiyoung Kwon
+단순히 작동하는 기능보다, 왜 이 구조여야 하는가를 끊임없이 고민하는 개발자
 ## 💻 Tech
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🌱 I’m currently learning java 
 -->
-🌱 I’m currently learning java
 
