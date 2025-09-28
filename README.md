@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=내%20깃허브에%20온%20걸%20환영해&desc=진심일거같니?&fontSize=60)
-
+# 🚀 보유 기술 스택
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyoungkwon)](https://github.com/ziyoungkwon/github-readme-stats)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
