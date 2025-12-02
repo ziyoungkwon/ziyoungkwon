@@ -13,8 +13,8 @@
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📊 GitHub Activities
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyoungkwon&show_icons=true&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyoungkwon)](https://github.com/ziyoungkwon/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyoungkwon&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyoungkwon&layout=compact&theme=radical&cache_seconds=86400)
 
 ## 📖 Baekjun
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gy011003)
