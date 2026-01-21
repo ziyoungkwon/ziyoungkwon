@@ -14,8 +14,7 @@
 
 ## 📊 GitHub Activities
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=ziyoungkwon)](https://github.com/ziyoungkwon)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ziyoungkwon&layout=compact&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyoungkwon&layout=compact)](https://github.com/ziyoungkwon/github-readme-stats)
 
 ## 📖 Baekjun
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gy011003)
