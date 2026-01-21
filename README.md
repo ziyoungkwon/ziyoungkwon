@@ -13,7 +13,7 @@
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📊 GitHub Activities
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ziyoungkwon&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=ziyoungkwon)](https://github.com/ziyoungkwon)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ziyoungkwon&layout=compact&theme=radical)
 
 
