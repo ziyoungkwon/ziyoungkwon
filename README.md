@@ -13,7 +13,7 @@
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📊 GitHub Activities
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=ziyoungkwon)](https://github.com/ziyoungkwon)
+[![ziyoung's github stats](https://github-readme-stats.vercel.app/api?username=ziyoungkwon)](https://github.com/ziyoungkwon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyoungkwon&layout=compact)](https://github.com/ziyoungkwon/github-readme-stats)
 
 ## 📖 Baekjun
