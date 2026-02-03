@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Activities
 [![ziyoung's github stats](https://github-readme-stats.vercel.app/api?username=ziyoungkwon)](https://github.com/ziyoungkwon)
-[![ziyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyoungkwon)](https://github.com/ziyoungkwon/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyoungkwon&layout=compact)](https://github.com/ziyoungkwon/github-readme-stats)
 
 ## 📖 Baekjun
